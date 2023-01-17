@@ -1,0 +1,18 @@
+form{
+    background-color: aliceblue;
+    width: 70%;
+    height: 50vh;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 3vh;
+    margin-top: 3%;
+}
+
+span{
+    font-size: 0;
+    display: block;
+}
+
+input{
+    margin-bottom: 3%;
+}
